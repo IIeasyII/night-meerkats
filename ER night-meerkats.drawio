@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T13:36:06.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="yYqMBZcFIfC2IRKzSfkg" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T18:16:12.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="OFpiom8yIzxj_FREponZ" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="zFSm4uwpE6V3R8-2AAQP">
-    <mxGraphModel dx="3131" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2814" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,7 +461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6kBdyUMijBNZz9T5GCbZ-112" value="Logs" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-315" width="140" height="150" as="geometry" />
+          <mxGeometry x="400" y="-315" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6kBdyUMijBNZz9T5GCbZ-113" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="6kBdyUMijBNZz9T5GCbZ-112" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -516,7 +516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6kBdyUMijBNZz9T5GCbZ-125" value="StatusUserPlace" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-30" width="160" height="80" as="geometry" />
+          <mxGeometry x="60" y="-110" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6kBdyUMijBNZz9T5GCbZ-126" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="6kBdyUMijBNZz9T5GCbZ-125" vertex="1">
           <mxGeometry y="30" width="160" height="20" as="geometry" />
